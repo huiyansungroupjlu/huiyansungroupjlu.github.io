@@ -1,11 +1,11 @@
 ---
-title: Hailin Wei
+title: Haolong Zeng
 layout: people
-permalink: /people/hailin_wei
+permalink: /people/haolong_zeng
 status: Student
-pname: Hailin Wei
-position: PhD student in Bioinformatics
-eml: hailinwei98@gmail.com
+pname: Haolong Zeng
+position: Master's degree student in Machine Learning
+eml: zenghl22@mails.jlu.edu.cn
 website: 
 cv: 
 github: 
@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Hailin received his bachelor's degree in Bioinformatics from Tongji University in 2020. His research focuses on modeling gene regulation and perturbation efficiency from single-cell CRISPR screens data. Recently, he is working on developing a universal pipeline to analyze single-cell CRISPR screens data.
+desp: His research focuses on large language model (LLM) reasoning and the landing application of machine learning systems. He worked as a machine learning algorithm intern at Tencent. He currently works as an AI engineer at Huawei Ascend AI, focusing on efficient inference solutions for large models, including inference engines and services.
 ---
