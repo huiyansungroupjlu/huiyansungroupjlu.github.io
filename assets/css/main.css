@@ -45,7 +45,7 @@ h4 {
   font-size: 1.125rem;
 }
 a {
-  color: {{ site.link-col | default: "#008AFF" }};
+  color: {{ site.link-col | default: "#0052D9" }};
 }
 a:hover,
 a:focus {
@@ -519,7 +519,7 @@ footer .footer-custom-content {
 }
 
 .blog-tags a {
-  color: {{ site.link-col | default: "#008AFF" }};
+  color: {{ site.link-col | default: "#0052D9" }};
   text-decoration: none;
   padding: 0 0.3125rem;
 }
