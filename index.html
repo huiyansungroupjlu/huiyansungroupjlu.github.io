@@ -22,27 +22,37 @@ use-site-title: true
     </div>
 
     <div class="row">
-        <h3>Intelligent Algorithms for Enhancing, Generating, and Functionally Analyzing Single-Cell Spatial Multi-Omics</h3>
+        <a href="https://doi.org/10.1093/bib/bbae721">
+            <h3>Identifying Cancer Prognosis Genes Through Causal Learning</h3>
+        </a>
         <div class="row">
             <div class="col-lg-4">
-                <img style="margin-top: 1.5rem;" src="/assets/img/research/STRIDE_Cellist.png">
+                <a href="https://doi.org/10.1093/bib/bbae721">
+                    <img style="margin-top: 1.5rem;" src="/assets/img/research/BIB 2025 26(1)：bbae721.png">
+                </a>
             </div>
             <div class="col-lg-8">
-                <p style="margin-top: 1.5rem;">Single-cell and spatial multi-omic technologies have revolutionized our understanding of cellular heterogeneity in complex biological systems. However, corresponding analyses currently face various challenges, including inadequate resolution, coverage, and difficulty integrating and generating heterogeneous multi-modal data. To address these issues, we have developed a series of intelligent algorithms. <a href="https://github.com/wanglabtongji/STRIDE">STRIDE</a> and <a href="https://github.com/wanglabtongji/Cellist">Cellist</a> enhance low-resolution and high-resolution spatial transcriptomics data signals, respectively, elevating them to the single-cell level. <a href="https://github.com/wanglabtongji/SCRIP">SCRIP</a> and <a href="https://github.com/wanglabtongji/SCRIPro">SCRIPro</a> constructs gene regulation networks using single-cell and spatial multiomics data. <a href="https://github.com/wanglabtongji/CCI">EvaCCI</a> assesses intercellular interactions , while <a href="https://github.com/wanglabtongji/SCREE">SCREE</a> analyzes multimodal single-cell CRISPR screen data. These algorithms enhance the usability of single-cell spatial omics data and lay the foundation for the integrative analysis of spatiotemporal multimodal data, as well as computational modeling of cellular phenotypes in physiological and pathological conditions.
+                <p style="margin-top: 1.5rem;">
+                    Accurate identification of causal genes for cancer prognosis is critical for estimating disease progression and guiding treatment interventions. In this study, we propose CPCG (Cancer Prognosis’s Causal Gene), a two-stage framework identifying gene sets causally associated with patient prognosis across diverse cancer types using transcriptomic data. Initially, an ensemble approach models gene expression’s impact on survival with parametric and semiparametric hazard models. Subsequently, an iterative conditional independence test combined with graph pruning is utilized to infer the causal skeleton, thereby pinpointing prognosis-related genes. Experiments on transcriptomic data from 18 cancer types sourced from The Cancer Genome Atlas Project demonstrate CPCG’s effectiveness in predicting prognosis under four evaluation metrics. Validations on 24 additional datasets covering 12 cancer types from the Gene Expression Omnibus and the Chinese Glioma Genome Atlas Project further demonstrate CPCG’s robustness and generalizability. CPCG identifies a concise but reliable set of genes, obviating the need for gene combination enumeration for survival time estimation. These genes are also proved closely linked to crucial biological processes in cancer. Moreover, CPCG constructs a stable causal skeleton and exhibits insensitivity to the order of data shuffling. Overall, CPCG is a powerful tool for extracting cancer prognostic biomarkers, offering interpretability, generalizability, and robustness. CPCG holds promise for facilitating targeted interventions in clinical treatment strategies.
                 </p>
             </div>
         </div>
     </div>
 
     <div class="row">
-        <h3>Cell Phenotype Modeling Based on Generative AI and Large-Scale Spatiotemporal Multimodal Data</h3>
+        <a href="https://doi.org/10.1016/j.compbiomed.2024.108690">
+            <h3>Sliver: Unveiling Large Scale Gene Regulatory Networks of Single-Cell Transcriptomic Data Through Causal Structure Learning and Modules Aggregation</h3>
+        </a>
         <div class="row">
             <div class="col-lg-8">
-                <p style="margin-top: 1.5rem;">Cell phenotypes in multicellular systems are regulated by intrinsic factors (such as gene expression regulation) and extrinsic factors (such as intercellular interactions). We have demonstrated the tight connection between intrinsic epigenetic regulations and cell fate determination in mouse IVF and SCNT embryo development (<b>Nature, 2016; Nat. Cell Biol., 2018; Cell Stem Cell, 2018, 2022; Cell Res., 2022</b>). Currently, we are developing generative AI models that are pretrained on large-scale single-cell multi-modal datasets. These models aim to uncover the collaborative effects between gene regulation, cellular crosstalk, and other environmental factors, such as metabolites and mechanics, on cell phenotypes. As a pioneering work, we have developed <a href="https://github.com/wanglabtongji/SELINA.py">SELINA</a>, which utilizes a multi-adversarial domain adaptation network to automatically annotate cell types using a large-scale pretrained human scRNA-seq reference. We hope to leverage generative AI models to gain deeper insights into the molecular mechanisms driving cell phenotypes and further guide and reshape this transformation process.
+                <p style="margin-top: 1.5rem;">
+                    Prevalent Gene Regulatory Network (GRN) construction methods rely on generalized correlation analysis. However, in biological systems, regulation is essentially a causal relationship that cannot be adequately captured solely through correlation. Therefore, it is more reasonable to infer GRNs from a causal perspective. Existing causal discovery algorithms typically rely on Directed Acyclic Graphs (DAGs) to model causal relationships, but it often requires traversing the entire network, which result in computational demands skyrocketing as the number of nodes grows and make causal discovery algorithms only suitable for small networks with one or two hundred nodes or fewer. In this study, we propose the SLIVER (cauSaL dIscovery Via dimEnsionality Reduction) algorithm which integrates causal structural equation model and graph decomposition. SLIVER introduces a set of factor nodes, serving as abstractions of different functional modules to integrate the regulatory relationships between genes based on their respective functions or pathways, thus reducing the GRN to the product of two low-dimensional matrices. Subsequently, we employ the structural causal model (SCM) to learn the GRN within the gene node space, enforce the DAG constraint in the low-dimensional space, and guide each factor to aggregate various functions through cosine similarity. We evaluate the performance of the SLIVER algorithm on 12 real single cell transcriptomic datasets, and demonstrate it outperforms other 12 widely used methods both in GRN inference performance and computational resource usage. The analysis of the gene information integrated by factor nodes also demonstrate the biological explanation of factor nodes in GRNs. We apply it to scRNA-seq of Type 2 diabetes mellitus to capture the transcriptional regulatory structural changes of β cells under high insulin demand.
                 </p>
             </div>
             <div class="col-lg-4">
-                <img style="margin-top: 1.5rem;" src="/assets/img/research/SELINA.png">
+                <a href="https://doi.org/10.1016/j.compbiomed.2024.108690">
+                    <img style="margin-top: 1.5rem;" src="/assets/img/research/CBM 2024 178：108690.png">
+                </a>
             </div>
         </div>
     </div>
