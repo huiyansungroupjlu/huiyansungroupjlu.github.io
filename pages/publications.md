@@ -8,7 +8,7 @@ permalink: /publications
 # Publications
 
 For more details, please visit the [Google Scholar](https://scholar.google.com/citations?user=A9t1pDwAAAAJ&hl=en)<br>
-\# for Co-first authors; \* for Co-corresponding authors
+**\#** for Co-first authors; **\*** for Co-corresponding authors
 
 ### 2024
 - **Yan Y#**, **Sun D#**, **Hu J#**, **Sun L**, Yu H, Xiong Y, Huang Z, Xia H, Zhu X, Bian D, Sun F, Chen Y, Hou L, Wu C, Fan R, Zeng A\*, Zhang L\*, Sun Y\*, **Wang C\***, Zhang P\*. Multi-omic profiling highlights factors associated with resistance to immuno-chemotherapy in non-small cell lung cancer. _**Nat. Genet.**_ 2024; Advanced online.<br>
