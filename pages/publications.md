@@ -11,6 +11,7 @@ For more details, please visit the [Google Scholar](https://scholar.google.com/c
 **\#** for Co-first authors; **\*** for Co-corresponding authors
 
 ### 2024
+
 - **Yan Y#**, **Sun D#**, **Hu J#**, **Sun L**, Yu H, Xiong Y, Huang Z, Xia H, Zhu X, Bian D, Sun F, Chen Y, Hou L, Wu C, Fan R, Zeng A\*, Zhang L\*, Sun Y\*, **Wang C\***, Zhang P\*. Multi-omic profiling highlights factors associated with resistance to immuno-chemotherapy in non-small cell lung cancer. _**Nat. Genet.**_ 2024; Advanced online.<br>
 [[Abstract]](https://www.nature.com/articles/s41588-024-01998-y)
 [[Full Paper]](/resources/publications/2024_NG_NSCLC.pdf)
@@ -29,6 +30,7 @@ For more details, please visit the [Google Scholar](https://scholar.google.com/c
 [[Full Paper]](/resources/publications/2024_Cell_SCLC.pdf)
 
 ### 2023
+
 - **Ren P#**, **Shi X#**, **Dong X**, Yu Z, Ding X, Wang J, Sun L, Yan Y, Hu J, Zhang P, Chen Q, Li T, **Wang C\***. SELINA: Single-cell Assignment using Multiple-Adversarial Domain Adaptation Network with Large-scale References. _**Cell Rep. Methods**_ 2023; 100577.<br>
 [[Abstract]](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00221-7)
 [[Full Paper]](/resources/publications/2023_CRM_SELINA.pdf)
@@ -58,6 +60,7 @@ For more details, please visit the [Google Scholar](https://scholar.google.com/c
 - Zhang Y, Xiang G, Jiang AY, Lynch A, Zeng Z, **Wang C**, Zhang W, Fan J, Kang J, Gu S, Wan C, Zhang B, Liu XS\*, Brown M\*, Meyer CA\*. MetaTiME integrates single-cell gene expression to characterize the meta-components of the tumor immune microenvironment. _**Nat. Commun.**_ 2023; 14(1),2634.<br>
 
 ### 2022
+
 - **Sun D#**, **Liu Z**, Li T, **Wu Q\***, **Wang C\***. STRIDE: accurately decomposing and integrating spatial transcriptomics using single-cell RNA sequencing. _**Nucleic Acids Res.**_ 2022; 50(7),e42-e42.<br>
 [[Abstract]](https://academic.oup.com/nar/article-abstract/50/7/e42/6543547)
 [[Full Paper]](/resources/publications/2022_NAR_STRIDE.pdf)
@@ -80,6 +83,7 @@ For more details, please visit the [Google Scholar](https://scholar.google.com/c
 - Zheng W#\*, Wang X#\*, Liu J, Yu X, Li L, Wang H, Yu J, Pei X, Li C, Wang Z, Zhang M, Zeng X, Zhang F, Wang C, Chen H, Chen H\*. Single-cell analyses highlight the proinflammatory contribution of C1q-high monocytes to Behçet's disease. _**PNAS**_ 2022; 19(26),e2204289119.<br>
 
 ### 2021
+
 - **Sun D#**, **Wang J#**, **Han Y#**, **Dong X**, **Zheng R**, **Ge J**, **Shi X**, **Wang B**, **Ren P**, Sun L, Yan Y, Zhang P, Zhang F\*, Li T\*, **Wang C\***. TISCH: a comprehensive web resource enabling interactive single-cell transcriptome visualization of tumor microenvironment. _**Nucleic Acids Res.**_ 2021; 49(D1),D1420-D1430.<br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/33179754/)
 [[Full Paper]](/resources/publications/2020_NAR_TISCH.pdf)
@@ -88,6 +92,7 @@ For more details, please visit the [Google Scholar](https://scholar.google.com/c
 - Wu SZ#, Al-Eryani G#,  Roden DL#, Junankar S, Harvey K, Andersson A, Thennavan A, **Wang C**, Torpy JR, Bartonicek N, Wang T, Larsson L, Kaczorowski D, Weisenfeld NI, Uytingco CR, Chew JG, Bent ZW, Chan C, Gnanasambandapillai V, Dutertre CA, Gluch L, Hui M, Beith J, Parker A, Robbins E, Segara D, Cooper C, Mak C, Chan B, Warrier S, Ginhoux F, Millar E, Powell JE, Williams TR,Liu XS, O'Toole S, Lim E, Lundeberg J, Perou CM, Swarbrick A\*. A single-cell and spatially resolved atlas of human breast cancers. _**Nat. Genet.**_ 2021; 53(9),1334-1347.<br>
 
 ### 2020
+
 - **Wang C#**, **Sun D#**, Huang X, Wan C, Li Z, **Han Y**, Qin Q, Fan J, Qiu X, Xie Y, Meyer CA, Brown M, Tang M, Long H, Liu T\*, Liu XS\*. Integrative analyses of single-cell transcriptome and regulome using MAESTRO. _**Genome Biol.**_ 2020; 21(1),1-28.<br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/32767996)
 [[Full Paper]](/resources/publications/2020_GB_MAESTRO.pdf)
@@ -97,6 +102,7 @@ For more details, please visit the [Google Scholar](https://scholar.google.com/c
 - Gu S#, Wang X#, Hu X#, Jiang P, Li Z, Traugh N, Bu X, Tang Q, **Wang C**, Zeng Z, Fu J, Meyer C, Zhang Y, Cejas P, Lim K, Wang J, Zhang W, Tokheim C, Sahu AD, Xing X, Kroger B, Ouyang Z, Long H, Freeman GJ\*, Brown M\*, Liu XS\*. Clonal tracing reveals diverse patterns of response to immune checkpoint blockade. _**Genome Biol.**_ 2020; 21,263.<br>
 
 ### Before 2020
+
 - **Wang C#**, Liu X#, Gao Y#\*, Yang L#, Li C, Liu W, Chen C, Kou X, Zhao Y, Chen J, Wang Y, Le R, Wang H, Duan T, Zhang Y\*, Gao S\*. Reprogramming of H3K9me3-dependent heterochromatin during mammalian embryo development. _**Nat. Cell Biol.**_ 2018; 20(5),620-631.<br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/29686265)
 [[Full Paper]](/resources/publications/2018_NCB_H3K9me3.pdf)
