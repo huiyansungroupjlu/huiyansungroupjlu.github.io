@@ -1,14 +1,14 @@
 ---
 layout: news
 title: Publications
-subtitle: Publications in Wang Lab
+subtitle: Publications in Huiyan Sun Lab
 permalink: /publications
 ---
 
 # Publications
 
-Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYAAAAJ&hl=en) for more details.<br>
-\# Co-first authors; \* Co-corresponding authors
+For more details, please visit the [Google Scholar](https://scholar.google.com/citations?user=A9t1pDwAAAAJ&hl=en)<br>
+\# for Co-first authors; \* for Co-corresponding authors
 
 ### 2024
 - **Yan Y#**, **Sun D#**, **Hu J#**, **Sun L**, Yu H, Xiong Y, Huang Z, Xia H, Zhu X, Bian D, Sun F, Chen Y, Hou L, Wu C, Fan R, Zeng A\*, Zhang L\*, Sun Y\*, **Wang C\***, Zhang P\*. Multi-omic profiling highlights factors associated with resistance to immuno-chemotherapy in non-small cell lung cancer. _**Nat. Genet.**_ 2024; Advanced online.<br>
@@ -116,5 +116,3 @@ Please visit [Google Scholar](https://scholar.google.com/citations?user=ZwKmcpYA
 - Zhang Y#\*, Vastenhouw NL#\*, Feng J, Fu K, **Wang C**, Ge Y, Pauli A, van Hummelen P, Schier AF\*, Liu XS\*. Canonical nucleosome organization at promoters forms during genome activation. _**Genome Res.**_ 2014;  24(2):260-6.<br>
 - Wang J, Lin X, Wang S, **Wang C**, Wang Q, Duan X, Lu P, Wang Q, Wang C, Liu XS, Huang J\*. PHF8 and REST/NRSF co-occupy gene promoters to regulate proximal gene expression. _**Sci. Rep.**_ 2014; 4,5508.<br>
 - Wang S, Sun Hanfei, Ma J, Zang C, **Wang C**, Wang J, Tang Q, Meyer CA, Zhang Y\*, Liu XS\*. Target analysis by integration of transcriptome and ChIP-seq data with BETA. _**Nat. Protoc.**_ 2013; 8,2502-15.<br>
-
-
