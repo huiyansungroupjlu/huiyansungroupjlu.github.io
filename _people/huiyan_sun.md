@@ -1,19 +1,19 @@
 ---
-title: Chenfei Wang
+title: Huiyan Sun
 layout: people
-permalink: /people/chenfei_wang
+permalink: /people/huiyan_sun
 status: Principle Investigator
-pname: Chenfei Wang
+pname: Huiyan Sun
 position: Principle Investigator
-office: 1239 Siping Road, Shanghai 200092
-eml: 08chenfeiwang@tongji.edu.cn
-website: https://wanglabtongji.github.io
+office: 2699 Qianjin Street, Changchun, Jilin
+eml: huiyansun@jlu.edu.cn
+website: https://huiyansungroupjlu.github.io/
 cv: 
 github: https://github.com/wanglabtongji
-linkedin:
-google_scholar: https://scholar.google.com/citations?user=ZwKmcpYAAAAJ&hl=en
+linkedin: 
+google_scholar: https://scholar.google.com/citations?user=A9t1pDwAAAAJ&hl=zh-CN
 twitter: https://twitter.com/ChenfeiWangTJ
 facebook: 
 instagram:
-desp: Chenfei Wang received his B.S. and Ph.D. in Bioinformatics from Tongji University in 2012 and 2017, respectively. During his Ph.D. studies, he focused on epigenetic reprogramming and its effects on embryogenesis and cell fate determination in mammalian early embryos and SCNT embryos, utilizing computational methods. In 2018, he joined Xiaole Shirley Liu's lab as a postdoctoral researcher at Dana-Farber Cancer Institute and Harvard University, where he developed algorithms for the integrated analysis of single-cell multi-omic data. Currently, he is a Professor at the School of Life Science and Technology at Tongji University. His research centers on developing computational algorithms and conducting big data mining on high-throughput data to understand the roles of gene regulation and cellular crosstalk in cellular and individual phenotypes during disease development and aging. <br/> Dr. Wang is a recipient of the Ray Wu Prize and a participant in the Shanghai Rising Star Program. He has also received support from the Excellent Youth Program and the General Program of the National Natural Science Foundation of China. He has published over 20 papers as a corresponding author in journals such as Nature Genetics, Nature Cancer, Cell Stem Cell, Genome Biology, and Nucleic Acids Research.
+desp: Huiyan Sun, researcher and doctoral supervisor at the School of Artificial Intelligence, Jilin University. Engaged in interdisciplinary research at the intersection of artificial intelligence, causal learning and biomedicine. In the past five years, she has published more than 20 papers as the first or corresponding author in high-level journals such as Cancer Research, National Science Review, ACM TKDD, and top international artificial intelligence conferences. Participated in the compilation of works such as Causal Inference: Rational Analysis and Applied Practice and Medical Informatics. He has presided over two projects funded by the National Natural Science Foundation of China, the Jilin Province Outstanding Youth Fund project, and one special project funded by Jilin University. He has received the ACM SIGBIO China 2022 Rising Star Award and the second prize of the 2020 National Commercial Science and Technology Progress Award. He serves as an executive member of the Systems Biology Committee of the China Bioinformatics Society (in preparation), a member of the Bioinformatics Committee of the China Computer Federation, and a director of the Jilin Artificial Intelligence Society.
 ---
