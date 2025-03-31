@@ -14,14 +14,14 @@ permalink: /software/
 - 
 - 
 
-#### Single-Cell Multi-Omics
+### Single-Cell Multi-Omics
 
 - 待上传和完善信息
 - 
 - 
 - 
 
-#### Spatial Multi-omics
+### Spatial Multi-omics
 
 - 待上传和完善信息
 - 
