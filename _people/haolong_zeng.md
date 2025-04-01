@@ -4,7 +4,7 @@ layout: people
 permalink: /people/haolong_zeng
 status: Student
 pname: Haolong Zeng
-position: Master's Degree Student in Machine Learning
+position: Master's Degree
 eml: 
 website: 
 cv: 
