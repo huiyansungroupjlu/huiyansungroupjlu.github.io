@@ -6,7 +6,7 @@ permalink: /recruitment
 
 # Recruitment
 
-The laboratory of Professor Huiyan Sun at Jilin University invites applicants for the recruitment listed below. The research in the laboratory focuses on developing computational algorithms to decipher mechanisms of phenotypic-driven cell identity changes using single-cell spatial multi-omics.
+The laboratory of [Associate Professor Huiyan Sun](https://sai.jlu.edu.cn/info/1094/3447.htm) at Jilin University invites applicants for the recruitment listed below. The research in the laboratory focuses on developing computational algorithms to decipher mechanisms of phenotypic-driven cell identity changes using single-cell spatial multi-omics.
 
 ### Bioinformatics and Artificial Intelligence Postdoctoral job at the Sun Lab
 
@@ -17,7 +17,7 @@ Requirements: <br/><br/>
     2. Strong programming skills(Python or C or C++ or Java and R).   
     3. Strong computational genomics experiences or machine learning background.   
     4. At least one first-authored English paper published in Bioinformatics or above.   
-    5. Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Sun Lab to [Dr. Wang](mailto:08chenfeiwang@tongji.edu.cn)  with the subject line "Computational postdoctoral application".   
+    5. Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Sun Lab to [Dr. Wang](mailto:yuezhuw23@mails.jlu.edu.cn)  with the subject line "Computational postdoctoral application".   
 
 ### Experimental Biology Postdoctoral job at the Sun Lab
 
@@ -28,4 +28,4 @@ Requirements: <br/><br/>
     2. Strong molecular, cell biology, and genomics skills.   
     3. At least one first-authored English paper published in the Journal of Biological Chemistry or above.   
     4. Motivation, independence, and creativity.   
-    5. Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Sun Lab to [Dr. Wang](mailto:08chenfeiwang@tongji.edu.cn)  with the subject line "Experimental postdoctoral application".
+    5. Interested applicants should submit CV, a letter of interest with a one-page proposal for a project to be conducted in the Sun Lab to [Dr. Wang](mailto:yuezhuw23@mails.jlu.edu.cn)  with the subject line "Experimental postdoctoral application".
